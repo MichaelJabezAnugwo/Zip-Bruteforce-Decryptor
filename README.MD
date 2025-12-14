@@ -5,7 +5,9 @@ A hacker used ransomware to lock a .zip file. Your job is to write a Python scri
 
 
 ├── bruteforce.py       # This is your Python script that does the brute-force work
+
 ├── enc.zip             # This is the encrypted zip file you're trying to unlock
+
 └── wordlist.txt        # This is the list of passwords your script will try
 
 
