@@ -17,6 +17,7 @@ A hacker used ransomware to lock a .zip file. Your job is to write a Python scri
 
 The script attempts to extract the contents of `enc.zip` using each password from `wordlist.txt`. It stops when the correct password is found and prints it to the console.
 
+NOTE: The script won't run again once the file has already been decrypted
 ---
 
 ## Background
